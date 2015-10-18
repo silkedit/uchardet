@@ -112,4 +112,3 @@ install(
 
 include(symbols.cmake)
 
-add_subdirectory(tools)
